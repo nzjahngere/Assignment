@@ -324,5 +324,3 @@
 * **Status Code:** `400`
 
 ---
-
-*End of submission.* Good luck!
