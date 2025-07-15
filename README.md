@@ -1,4 +1,4 @@
-# API Testing: Reqres Public API
+# API Testing Assignmen with CRUD Operations
 
 *For each endpoint: name & method, request details, expected response, and status code. Two test cases per endpoint (positive + negative).*
 
